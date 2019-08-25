@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.miniproject.calender.MainActivity">
+
+    <com.github.sundeepk.compactcalendarview.CompactCalendarView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/compactcalendar_view"
+        android:layout_width="match_parent"
+        android:layout_height="320dp"
+        android:layout_margin="20dp"
+        android:layout_centerInParent="true"
+        app:compactCalendarTextSize="14sp"
+        app:compactCalendarBackgroundColor="#ededed"
+        app:compactCalendarTextColor="#000000"
+        app:compactCalendarCurrentSelectedDayBackgroundColor="#a70044ff"
+        app:compactCalendarCurrentDayBackgroundColor="#0026ff"
+        app:compactCalendarMultiEventIndicatorColor="#00ffffff"
+        />
+
+</RelativeLayout>
