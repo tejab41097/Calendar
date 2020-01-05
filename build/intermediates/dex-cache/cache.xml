@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\25239c48b3fd0fcfda19a8d6f820f21e5780e3a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ddc2c5613bd096275fb5bfaefd0a4c5a06366b1b">
+        <dex dex="E:\Study\Android\Programs\Calender\app\build\intermediates\pre-dexed\debug\classes_51909b0b27e8ceb82ffb987754bbdc7ed4a28d98.jar" />
+    </item>
+
+</items>
